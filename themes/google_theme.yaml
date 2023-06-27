@@ -35,6 +35,7 @@ Google Theme:
       paper-item-icon-active-color: var(--primary-color)
       mdc-button-outline-color: rgb(26, 115, 232)
       # States and Badges
+      state-active-color: var(--paper-item-icon-active-color)
       state-icon-color: var(--paper-item-icon-color)
       state-icon-active-color: var(--paper-item-icon-active-color)
       state-icon-unavailable-color: var(--disabled-text-color)
