@@ -157,6 +157,8 @@ Google Theme:
       state-light-active-color: inherit
       state-media_player-active-color: inherit
       state-person-active-color: inherit
+      state-automation-active-color: var(--paper-item-icon-color)
+      state-automation-inactive-color: var(--disabled-text-color)
       #state-icon-color: var(--paper-item-icon-color)
       #state-icon-active-color: var(--paper-item-icon-active-color)
       #state-icon-unavailable-color: var(--disabled-text-color)
