@@ -148,9 +148,18 @@ Google Theme:
       paper-item-icon-active-color: rgb(138, 180, 248)
       mdc-button-outline-color: rgb(138, 180, 248)
       # States and Badges
-      state-icon-color: var(--paper-item-icon-color)
-      state-icon-active-color: var(--paper-item-icon-active-color)
-      state-icon-unavailable-color: var(--disabled-text-color)
+      state-active-color: var(--paper-item-icon-active-color)
+      state-inactive-color: var(--paper-item-icon-color)
+      state-unavailable-color: var(--disabled-text-color)
+      
+      state-switch-active-color: inherit
+      state-binary_sensor-active-color: inherit
+      state-light-active-color: inherit
+      state-media_player-active-color: inherit
+      state-person-active-color: inherit
+      #state-icon-color: var(--paper-item-icon-color)
+      #state-icon-active-color: var(--paper-item-icon-active-color)
+      #state-icon-unavailable-color: var(--disabled-text-color)
       # Sliders
       paper-slider-knob-color: rgb(138, 180, 248)
       paper-slider-knob-start-color: var(--paper-slider-knob-color)
