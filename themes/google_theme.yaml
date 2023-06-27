@@ -36,6 +36,8 @@ Google Theme:
       mdc-button-outline-color: rgb(26, 115, 232)
       # States and Badges
       state-active-color: var(--paper-item-icon-active-color)
+      state-inactive-color: var(--paper-item-icon-color)
+      state-unavailable-color: var(--disabled-text-color)
       
       state-switch-active-color: inherit
       state-binary_sensor-active-color: inherit
