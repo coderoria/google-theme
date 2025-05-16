@@ -38,13 +38,13 @@ Google Theme:
       state-active-color: var(--paper-item-icon-active-color)
       state-inactive-color: var(--paper-item-icon-color)
       state-unavailable-color: var(--disabled-text-color)
-      
+
       state-switch-active-color: inherit
       state-binary_sensor-active-color: inherit
       state-light-active-color: inherit
       state-media_player-active-color: inherit
       state-person-active-color: inherit
-      #state-icon-color: var(--paper-item-icon-color)
+      state-icon-color: var(--paper-item-icon-color)
       #state-icon-active-color: var(--paper-item-icon-active-color)
       #state-icon-unavailable-color: var(--disabled-text-color)
       # Sliders
@@ -119,7 +119,7 @@ Google Theme:
       rgb-state-input-boolean-color: var(--rgb-accent-color)
       rgb-state-humidifier-color: var(--rgb-accent-color)
       rgb-state-cover-color: var(--rgb-accent-color)
-#
+    #
     dark:
       # Header:
       app-header-background-color: rgb(23, 23, 23)
@@ -151,7 +151,7 @@ Google Theme:
       state-active-color: var(--paper-item-icon-active-color)
       state-inactive-color: var(--paper-item-icon-color)
       state-unavailable-color: var(--disabled-text-color)
-      
+
       state-switch-active-color: inherit
       state-binary_sensor-active-color: inherit
       state-light-active-color: inherit
@@ -159,7 +159,7 @@ Google Theme:
       state-person-active-color: inherit
       state-automation-active-color: var(--paper-item-icon-color)
       state-automation-inactive-color: var(--disabled-text-color)
-      #state-icon-color: var(--paper-item-icon-color)
+      state-icon-color: var(--paper-item-icon-color)
       #state-icon-active-color: var(--paper-item-icon-active-color)
       #state-icon-unavailable-color: var(--disabled-text-color)
       # Sliders
