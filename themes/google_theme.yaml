@@ -119,6 +119,12 @@ Google Theme:
       rgb-state-input-boolean-color: var(--rgb-accent-color)
       rgb-state-humidifier-color: var(--rgb-accent-color)
       rgb-state-cover-color: var(--rgb-accent-color)
+      # New WA- Variables
+      wa-color-on-normal: var(--primary-color)
+      ha-color-fill-primary-normal-active: var(--primary-color)
+      ha-color-fill-primary-normal-hover: var(--primary-color)
+      ha-color-fill-primary-loud-active: var(--primary-color)
+      ha-color-fill-primary-loud-hover: var(--primary-color)
     #
     dark:
       # Header:
@@ -234,3 +240,9 @@ Google Theme:
       rgb-state-input-boolean-color: var(--rgb-accent-color)
       rgb-state-humidifier-color: var(--rgb-accent-color)
       rgb-state-cover-color: var(--rgb-accent-color)
+      # New WA- Variables
+      wa-color-on-normal: var(--primary-color)
+      ha-color-fill-primary-normal-active: var(--primary-color)
+      ha-color-fill-primary-normal-hover: var(--primary-color)
+      ha-color-fill-primary-loud-active: var(--primary-color)
+      ha-color-fill-primary-loud-hover: var(--primary-color)
