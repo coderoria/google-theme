@@ -242,6 +242,7 @@ Google Theme:
       rgb-state-cover-color: var(--rgb-accent-color)
       # New WA- Variables
       wa-color-on-normal: var(--primary-color)
+      wa-color-on-quiet: var(--primary-color)
       ha-color-fill-primary-normal-active: var(--primary-color)
       ha-color-fill-primary-normal-hover: var(--primary-color)
       ha-color-fill-primary-loud-active: var(--primary-color)
